@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  /* background-image: linear-gradient(#cc2b5e , #753a88); */
+}
+
+.list {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(154, 16, 159);
+  padding: 1rem;
+  color: white;
+  font-size: 30px;
+}
+
+.navbar {
+  margin-bottom: 2rem;
+}
+
+.child1 {
+  margin: 2rem;
+}
+
+.notFound {
+  margin: 3rem;
+  color: rgb(61, 37, 37);
+}
